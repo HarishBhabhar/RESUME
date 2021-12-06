@@ -2,8 +2,9 @@ body{
     margin: 0;
     padding: 0;
     background: rgb(150, 134, 134)
-    font-family: 'Poppins', sans-serif;
+    /* font-family: Poppins, sans-serif; */
 }
+
 h1 {
     margin: 0;
     font-weight: 400;
@@ -16,7 +17,7 @@ h2 {
 .box {
     background: rgba(238, 237, 237, 0.671);
     box-shadow: rgba(99,99,99,0.2) 9px 2px 8px 0px;
-    width: 50rem;
+    width: 80%;
     padding: 3rem;
     margin: 1rem auto;
     border-radius: 0.5rem;
